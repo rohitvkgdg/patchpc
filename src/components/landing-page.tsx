@@ -1,7 +1,7 @@
 'use client'
 
 import { useState } from 'react'
-import { Clock, Home, Laptop, Phone, Menu, X, Star } from 'lucide-react'
+import { Clock, Home, Laptop, Phone, Menu, X } from 'lucide-react'
 import { HoverBorderGradient } from './ui/hover-border-gradient'
 import { AuroraBackground } from './ui/aurora-background'
 import { Button } from './ui/button'
